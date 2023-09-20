@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Frutivegetal</string>
+
+
+    <string name="affirmation1">5000</string>
+    <string name="affirmation2">3500</string>
+    <string name="affirmation3">2500</string>
+    <string name="affirmation4">3000</string>
+    <string name="affirmation5">4500</string>
+    <string name="affirmation6">5000</string>
+    <string name="affirmation7">5500</string>
+    <string name="affirmation8">6000</string>
+    <string name="affirmation9">3000</string>
+    <string name="affirmation10">2000</string>
+</resources>
